@@ -1,0 +1,9 @@
+1) Buying a stock from a company
+
+if a company buisiness grows, the stock value grows as well
+
+concluded : buying stocks, make sure their company will able to expand its buisiness, more people/customer using the buisiness, not shrunken
+
+2) For a stock
+If more people want to rid it than get it, price drops
+If more people want to get it than rid it, price raises

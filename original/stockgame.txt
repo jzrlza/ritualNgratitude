@@ -1,0 +1,12 @@
+Stock game
+
+Interface must includes:
+
+- Money
+
+- Stocks
+
+- News : this is a prediction card, or an effect card
+
+Attutude
+==> Well aware of news and recent events, by schedule.
